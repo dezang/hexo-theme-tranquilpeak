@@ -64,3 +64,8 @@
 @import
     'themes/hljs-tranquilpeak',
     'themes/hljs-custom';
+
+// For WebFont
+@import
+    url(http://fonts.googleapis.com/earlyaccess/notosanskr.css),
+    url(http://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
